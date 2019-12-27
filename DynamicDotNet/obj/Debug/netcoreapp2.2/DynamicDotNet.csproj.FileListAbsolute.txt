@@ -1,0 +1,11 @@
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\bin\Debug\netcoreapp2.2\DynamicDotNet.deps.json
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\bin\Debug\netcoreapp2.2\DynamicDotNet.runtimeconfig.json
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\bin\Debug\netcoreapp2.2\DynamicDotNet.runtimeconfig.dev.json
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\bin\Debug\netcoreapp2.2\DynamicDotNet.dll
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\bin\Debug\netcoreapp2.2\DynamicDotNet.pdb
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\obj\Debug\netcoreapp2.2\DynamicDotNet.csprojAssemblyReference.cache
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\obj\Debug\netcoreapp2.2\DynamicDotNet.csproj.CoreCompileInputs.cache
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\obj\Debug\netcoreapp2.2\DynamicDotNet.AssemblyInfoInputs.cache
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\obj\Debug\netcoreapp2.2\DynamicDotNet.AssemblyInfo.cs
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\obj\Debug\netcoreapp2.2\DynamicDotNet.dll
+C:\Users\dungvph\Desktop\DynamicDotNet\DynamicDotNet\obj\Debug\netcoreapp2.2\DynamicDotNet.pdb
